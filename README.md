@@ -14,5 +14,4 @@ Expression and activity heatmaps: https://nash-lab.github.io/DAOx-DMS/heatmaps/h
 Normalized activity heatmap: https://nash-lab.github.io/DAOx-DMS/heatmaps/hm_normalized_activity.html
 
 ## References
-"Understanding Activity-Stability Tradeoffs in Biocatalysts by Enzyme Proximity Sequencing". Rosario Vanella, Christoph Küng, Alexandre A. Schoepfer, Vanni Doffini, Jin Ren, Michael A. Nash
-bioRxiv 2023.02.24.529916; doi: https://doi.org/10.1101/2023.02.24.529916
+Vanella, R. et al. Understanding activity-stability tradeoffs in biocatalysts by enzyme proximity sequencing. Nat Commun 15, 1807 (2024). https://doi.org/10.1038/s41467-024-45630-3
